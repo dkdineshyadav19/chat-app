@@ -1,0 +1,4 @@
+bootstrap cdn ..
+socket 
+express
+angular cli
